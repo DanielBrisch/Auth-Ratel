@@ -52,8 +52,8 @@ Learn more about Ratel and its features on the official repo:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/ratel-auth-project.git
-   cd ratel-auth-project
+   git clone https://github.com/DanielBrisch/Auth-Ratel.git
+   cd Auth-Ratel
    ```
 
 2. **Install dependencies**
